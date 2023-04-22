@@ -42,3 +42,4 @@ class AClass(object):
         :return: Describe what the function returns. Delete this line completely if nothing is returned.
         """
         self.do_something()
+        print("Inside a_method")

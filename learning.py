@@ -43,3 +43,4 @@ class AClass(object):
         """
         self.do_something()
         print("Inside a_method")
+        print("something ...!!")
